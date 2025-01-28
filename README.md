@@ -12,6 +12,7 @@ This project implements a sparse autoencoder to analyze activations from GPT-2-s
 - 🧩 Activation extraction from GPT-2's intermediate layers  
 - 🏗️ Custom sparse autoencoder architecture
 
+The configuration is still not up to par with the research paper.
 ## Installation ⚙️
 
 ```bash
